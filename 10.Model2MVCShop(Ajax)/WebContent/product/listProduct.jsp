@@ -60,7 +60,6 @@
 							"Content-Type" : "application/json"
 						},
 						success : function(JSONData , status) {
-
 							//Debug...
 							//alert(status);
 							//Debug...

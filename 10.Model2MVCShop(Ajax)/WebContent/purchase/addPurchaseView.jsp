@@ -220,9 +220,9 @@
 		<td width="104" class="ct_write">배송희망일자</td>
 		<td bgcolor="D6D6D6" width="1"></td>
 		<td width="200" class="ct_write01">
-			<input 	type="text" readonly="readonly" name="divyDate" class="ct_input_g" 
-							style="width: 100px; height: 19px" maxLength="20"/>
-			<img 	src="../images/ct_icon_date.gif" width="15" height="15"	
+			<input 	type="text" readonly="readonly" name="divyDate" 
+						class="ct_input_g" style="width: 100px; height: 19px" maxLength="20" />
+			<img src="../images/ct_icon_date.gif" width="15" height="15"	
 						onclick="show_calendar('document.addPurchase.divyDate', document.addPurchase.divyDate.value)"/>
 		</td>
 	</tr>
